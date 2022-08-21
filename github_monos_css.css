@@ -1,0 +1,17 @@
+div {
+    display:flex;
+    background-color: darkkhaki;
+    align-items: center;
+    justify-content: center;
+    
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+H1{
+    font-family: cursive;
+    color: blueviolet;
+    background-color: bisque;
+    text-align: center;
+}
